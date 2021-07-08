@@ -4,7 +4,7 @@
 
 <p>Jupyter notebook containing all descriptive, inferential, and market basket analyis located in the repository. </p></b>
 
-<h2>About This Project</h2>
+<h2>About</h2>
 
 <p>The purpose of this analysis is to determine the current state of this fictional company, as well as determine any future risks and ways to increase revenue going forward.</p>
 
