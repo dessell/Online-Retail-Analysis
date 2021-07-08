@@ -4,6 +4,8 @@
 
 <p>Jupyter notebook containing all descriptive, inferential, and market basket analyis located in the repository. </p></b>
 
+<h2>Purpose</h2>
+
 <p>The purpose of this analysis is to determine the current state of this fictional company, as well as determine any future risks and ways to increase revenue going forward.</p>
 
 <p>The company is an online retailer based in the United Kingdom that sells mainly to wholesaler businesses. We will assume their transactions are conducted in English Pounds.</p>
