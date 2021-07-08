@@ -11,3 +11,5 @@
 <p>The company is an online retailer based in the United Kingdom that sells mainly to wholesaler businesses. We will assume their transactions are conducted in English Pounds.</p>
 
 <p>Unfortunately, the dataset only contains sales data, so revenue is the only financial metric to work with. As a result, we will not consider costs of goods sold when analyzing the state of the company. </p>
+
+<p>The analysis determines a stagnating revenue stream year over year with an alarmingly high reliance on the domestic United Kingdom market and a corresponding geopolitical risk. It is suggested that the company focus on market penetration in select countries with high growth potential, customer service in high revenue countries with whale customers, and increasing prices in the saturated United Kingdom market where price sensitivity may be less elastic to offset any concessions made in the name of expansion/diversification.</p>
