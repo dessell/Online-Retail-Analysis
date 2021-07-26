@@ -2,7 +2,7 @@
 
 <p>Source data too large for github upload limit. It can be found <a href ='https://www.kaggle.com/mashlyn/online-retail-ii-uci'> here.</a></p>
 
-<p>Jupyter notebook containing all descriptive, inferential, and market basket analyis located in the repository. </p></b>
+<p>Jupyter notebook containing all descriptive, inferential, and market basket analysis located in the repository. </p></b>
 
 <h2>About</h2>
 
